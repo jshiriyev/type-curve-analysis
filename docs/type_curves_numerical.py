@@ -2,11 +2,11 @@ import numpy
 
 import matplotlib.pyplot as plt
 
-from borepy.wtest import agarwal
-from borepy.wtest import everdingen
-from borepy.wtest import finite
+from typx.wtest import agarwal
+from typx.wtest import everdingen
+from typx.wtest import finite
 
-from borepy.scomp.finite import derive
+from typx.scomp.finite import derive
 
 # print(finite.gridinner(4.48,5,5/4))
 # print(finite.gridouter(4.48,4,5/4))

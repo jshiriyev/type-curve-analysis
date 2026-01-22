@@ -2,7 +2,7 @@ from matplotlib import pyplot
 
 import numpy
 
-from borepy.wtest import agarwal1970
+from typx.wtest import agarwal1970
 
 tD = numpy.logspace(2,7,100)
 

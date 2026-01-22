@@ -2,7 +2,7 @@ import numpy
 
 import matplotlib.pyplot as plt
 
-from borepy.wtest import everdingen1949
+from typx.wtest import everdingen1949
 
 tD = numpy.linspace(10,40,1000)
 

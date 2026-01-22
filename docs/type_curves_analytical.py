@@ -2,10 +2,10 @@ import numpy
 
 import matplotlib.pyplot as plt
 
-from borepy.wtest import agarwal1970
-from borepy.wtest import everdingen1949
+from typx.wtest import agarwal1970
+from typx.wtest import everdingen1949
 
-from borepy.scomp.finite import derive
+from typx.scomp.finite import derive
 
 tD = numpy.logspace(2,7,2000)
 CD = 1000

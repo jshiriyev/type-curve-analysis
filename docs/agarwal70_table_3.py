@@ -1,6 +1,6 @@
 import numpy
 
-from borepy.wtest import agarwal1970
+from typx.wtest import agarwal1970
 
 tD = [.1,.2,.5,1,2,5,10,20,50,100,200,500,1_000,2_000,5_000,10_000,20_000,50_000,100_000]
 tD = numpy.array(tD)*1000

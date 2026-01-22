@@ -1,7 +1,7 @@
 import numpy as np
 
-from borepy.wtest import reservoir,well,fluid
-from borepy.wtest import buildup
+from typx.wtest import reservoir,well,fluid
+from typx.wtest import buildup
 
 res = reservoir(permeability=200,porosity=0.15,thickness=30)
 
